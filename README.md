@@ -2,7 +2,7 @@
 - 👀 I’m interested in python!
 - 🌱 I’m currently learning C!
 - 👍 I like python!
-- I like python with pygame, ursina!
+- I like python with pygame
 
 <!---
 Imj0707/Imj0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
