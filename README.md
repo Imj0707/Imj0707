@@ -1,4 +1,4 @@
-<img src="https://github.com/Imj0707/Imj0707/blob/main/waving_hand.png">
+<img src="https://github.com/Imj0707/Imj0707/blob/main/wavinghand.gif">
 
 Hello 😀
 
